@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "CargoType": 5
+  },
+  "models": {
+    "CargoType": {
+      "1": "{\"name\":\"Take over the galaxy\",\"id\":1}",
+      "2": "{\"name\":\"destroy alderaan\",\"id\":2}"
+    }
+  }
+}
